@@ -16,7 +16,7 @@ deploy:
   region: "ap-south-1b"
   app: "Finance"
   env: "Finance-env-1"
-  bucket_name: "elasticbeanstalk-ap-south-1-647438919108.s3.ap-south-1b.amazonaws.com"
+  bucket_name: "elasticbeanstalk-ap-south-1-647438919108.s3.ap-south-1.amazonaws.com"
   bucket_path: "docker"
   on:
     branch: main
